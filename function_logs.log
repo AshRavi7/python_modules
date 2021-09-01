@@ -1,0 +1,15 @@
+2021-09-01 11:11:03,259>>>10236---root---DEBUG---Executing python add function
+2021-09-01 11:11:03,259>>>10236---root---INFO---x is 30 and y is 50 and the result is 80
+2021-09-01 11:17:34,738>>>16264---root---DEBUG---Executing python add function
+2021-09-01 11:17:34,738>>>16264---root---ERROR---Parameter values are not integers
+2021-09-01 11:21:32,055>>>15516---root---DEBUG---Executing python add function
+2021-09-01 11:21:32,055>>>15516---root---ERROR---Parameter values are not integers
+2021-09-01 11:21:32,056>>>15516---root---DEBUG---Executing python product function
+2021-09-01 11:21:32,056>>>15516---root---WARNING---parameters entered are not integers
+2021-09-01 11:23:38,243>>>11944---root---DEBUG---Executing python add function
+2021-09-01 11:23:38,243>>>11944---root---INFO---x is 20 and y is 30 and the result is 50
+2021-09-01 11:23:38,243>>>11944---root---DEBUG---Executing python product function
+2021-09-01 11:24:21,490>>>15752---root---DEBUG---Executing python add function
+2021-09-01 11:24:21,491>>>15752---root---INFO---x is 20 and y is 30 and the result is 50
+2021-09-01 11:24:21,491>>>15752---root---DEBUG---Executing python product function
+2021-09-01 11:24:21,491>>>15752---root---INFO---x is 10 and y is 10 and the result is 100
